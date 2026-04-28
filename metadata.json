@@ -1,0 +1,6 @@
+{
+  "name": "bath",
+  "description": "A gravity and structural calculation tool for a specialized bathtub with a rotating cylindrical entrance, featuring 3D visualization and material presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
